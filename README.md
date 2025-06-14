@@ -1,3 +1,3 @@
 # demo-repo
 
-author - Anirudh
+author - Anirudhs
